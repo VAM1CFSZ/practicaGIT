@@ -67,7 +67,7 @@
             chkUrgente.TabIndex = 3;
             chkUrgente.Text = "Urgente";
             chkUrgente.UseVisualStyleBackColor = true;
-            chkUrgente.CheckedChanged += chkUrgente_CheckedChanged;
+            
             // 
             // Form1
             // 
